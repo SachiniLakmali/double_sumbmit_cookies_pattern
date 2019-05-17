@@ -9,6 +9,6 @@ Steps:
 
 3.Clone this project folder and save it inside this folder - C:\wamp\www\
 
-4.Open the browser and type http://localhost/DoubleSubmitCookiesPattern/login.php
+4.Open the browser and type http://localhost/double_sumbmit_cookies_pattern/login.php
 
 For more information check the blog post - 
